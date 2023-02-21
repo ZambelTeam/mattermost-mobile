@@ -96,6 +96,7 @@
     "semver": "7.3.8",
     "serialize-error": "11.0.0",
     "shallow-equals": "1.0.0",
+    "solidarity-react-native": "2.1.2",
     "tinycolor2": "1.5.2",
     "url-parse": "1.5.10"
   },
