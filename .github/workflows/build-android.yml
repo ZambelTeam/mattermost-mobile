@@ -20,7 +20,7 @@ jobs:
 
       - name: Install dependencies
         run: npm install
-        working-directory: ./app
+        working-directory: ./mattermost-mobile
 
       - name: Build Mattermost Mobile app for Android
         run: npx react-native run-android --variant=release
